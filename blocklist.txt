@@ -1,0 +1,4 @@
+127.0.0.1 adservice.google.co.uk
+0.0.0.0 flingo.tv
+0.0.0.0 imgurgallery.com
+0.0.0.0 sp.booking.com
