@@ -4,3 +4,6 @@
 0.0.0.0 sp.booking.com
 0.0.0.0 livejasmin.com
 0.0.0.0 sourcefatcake.com
+0.0.0.0 *.slayed.com
+0.0.0.0 *.milfy.com
+0.0.0.0 *.wifey.com
